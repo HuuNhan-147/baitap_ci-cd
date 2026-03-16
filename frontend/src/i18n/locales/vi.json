@@ -1,0 +1,182 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "blog": "Blog",
+    "certificates": "Chứng chỉ",
+    "about": "Về tôi",
+    "contact": "Liên hệ",
+    "readBlog": "Đọc Blog"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "title": "Java Backend Developer",
+    "description": "Chuyên về lập trình mạng, Java và JavaScript. Đam mê xây dựng các ứng dụng web hiệu suất cao và chia sẻ kiến thức qua blog.",
+    "viewProjects": "Xem Dự Án",
+    "contactMe": "Liên Hệ",
+    "available": "Sẵn sàng làm việc",
+    "myProjects": "Dự án của tôi",
+    "downloadCV": "Tải CV"
+  },
+  "about": {
+    "title": "Về Tôi",
+    "subtitle": "Giới thiệu",
+    "description": "Tôi là một lập trình viên đam mê công nghệ và luôn tìm kiếm cơ hội để học hỏi và phát triển.",
+    "role": "DEVELOPER INTERN",
+    "introTitle": "GIỚI THIỆU BẢN THÂN",
+    "detailedBio": [
+      "Tên tôi là Cao Hữu Nhân, hiện là sinh viên năm cuối chuyên ngành Công nghệ phần mềm tại Đại học Công Nghệ TP.HCM (HUTECH). Tôi đang trên hành trình hoàn thiện những năm cuối của quãng đời đại học và chuẩn bị bước vào con đường sự nghiệp với vai trò Developer Intern, tập trong vào lĩnh vực Backend Web Development và các công nghệ hiện đại liên quan đến Web2 và Web3.",
+      "Niềm yêu thích công nghệ và lập trình của tôi hình thành từ sớm, đặc biệt là sự hứng thú với cách các hệ thống phía sau vận hành: từ xử lý dữ liệu, xây dựng API cho đến đảm bảo tính bảo mật và hiệu năng của ứng dụng. Chính điều đó đã thôi thúc tôi theo đuổi ngành Công nghệ thông tin, nơi tôi có cơ hội học tập và rèn luyện các kiến thức nền tảng về JavaScript, C#, TypeScript, cũng như các framework và công nghệ như Node.js, Express.js, ASP.NET Core, NestJS, React.js và Next.js.",
+      "Trong suốt quá trình học tập, tôi luôn cố gắng cân bằng giữa kết quả học thuật và việc tự học, thực hành thông qua các dự án cá nhân. Tôi tin rằng kiến thức chỉ thực sự có giá trị khi được áp dụng vào thực tế. Vì vậy, tôi đã chủ động xây dựng nhiều dự án, tiêu biểu là website bán hàng điện tử với kiến trúc RESTful API, xác thực JWT, phân quyền người dùng, tích hợp thanh toán VNPay và chatbot AI hỗ trợ khách hàng. Bên cạnh đó, tôi cũng tham gia phát triển một dApp truy xuất nguồn gốc tài khoản game trên blockchain, nơi tôi có cơ hội tiếp cận sâu hơn với Smart Contract, Solidity, EVM-compatible blockchain, IPFS và tích hợp ví phi tập trung.",
+      "Trong công việc và học tập, tôi luôn đề cao chất lượng kết quả hơn lời nói. Tôi có khả năng làm việc nhóm tốt, tư duy logic rõ ràng và tinh thần trách nhiệm cao. Trong nhiều dự án, tôi thường được các thành viên tin tưởng giao vai trò điều phối hoặc dẫn dắt nhóm, nhờ khả năng phân tích vấn đề, đưa ra giải pháp và hỗ trợ đồng đội hoàn thành mục tiêu chung. Tôi đặc biệt hứng thú với quá trình cùng cả nhóm tìm ra hướng đi đúng và tối ưu cho từng bài toán kỹ thuật.",
+      "Bên cạnh thời gian dành cho lập trình, tôi cũng trân trọng những khoảng lặng cá nhân để suy nghĩ, học hỏi và làm mới bản thân. Tôi tin rằng việc không ngừng học hỏi, kể cả khi đối mặt với những vấn đề khó khăn, chính là cách tốt nhất để trưởng thành trong lĩnh vực công nghệ luôn thay đổi từng ngày.",
+      "Ở thời điểm hiện tại, tôi mong muốn được làm việc trong một môi trường trẻ trung, năng động và sẵn sàng hướng dẫn, nơi tôi có thể tiếp tục học hỏi, trau dồi kỹ năng chuyên môn và từng bước khẳng định giá trị của bản thân trên con đường trở thành một Backend / Fullstack Developer trong tương lai. Tôi luôn sẵn sàng đón nhận thử thách mới, bởi với tôi: dù khó, tôi vẫn sẽ làm cho đến khi hoàn thành."
+    ],
+    "honorsTitle": "DANH HIỆU & THÀNH TÍCH",
+    "honors": {
+      "sv5t": {
+        "title": "Sinh viên 5 tốt",
+        "description": "Danh hiệu vinh dự dành cho sinh viên xuất sắc, toàn diện cả 5 mặt: Đạo đức tốt, Học tập tốt, Thể lực tốt, Tình nguyện tốt, Hội nhập tốt."
+      },
+      "svtb": {
+        "title": "Sinh viên tiêu biểu",
+        "description": "Danh hiệu cao quý dành cho sinh viên có thành tích học tập xuất sắc, tích cực tham gia hoạt động và là tấm gương sáng cho cộng đồng sinh viên."
+      }
+    }
+  },
+  "skills": {
+    "title": "Kỹ Năng & Công Nghệ",
+    "subtitle": "Những công nghệ tôi sử dụng",
+    "languages": "Ngôn ngữ",
+    "frameworks": "Frameworks & Thư viện",
+    "database": "Cơ sở dữ liệu",
+    "web3Tools": "Web3 & Công cụ"
+  },
+  "projects": {
+    "title": "Dự Án Cá Nhân",
+    "subtitle": "Những dự án tôi đã làm",
+    "viewProject": "Xem Dự Án",
+    "viewCode": "Xem Code",
+    "technologies": "Công nghệ",
+    "personalProjects": "Dự án cá nhân",
+    "projectsSubtitle": "Những sản phẩm thực tế tôi đã xây dựng, áp dụng các công nghệ mới nhất."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Chia sẻ kiến thức",
+    "latest": "Bài Viết Mới Nhất",
+    "readMore": "Đọc thêm",
+    "allPosts": "Tất Cả Bài Viết",
+    "categories": "Danh Mục",
+    "search": "Tìm kiếm bài viết...",
+    "noResults": "Không tìm thấy bài viết nào",
+    "minute": "phút đọc",
+    "featuredPosts": "Bài viết nổi bật",
+    "featuredSubtitle": "Những bài viết tâm đắc nhất về kiến thức chuyên sâu và kinh nghiệm thực tế."
+  },
+  "contact": {
+    "title": "Liên Hệ",
+    "subtitle": "Hãy kết nối với tôi",
+    "name": "Họ và tên",
+    "email": "Email",
+    "message": "Tin nhắn",
+    "send": "Gửi Tin Nhắn",
+    "sending": "Đang gửi...",
+    "success": "Tin nhắn đã được gửi thành công!",
+    "error": "Có lỗi xảy ra. Vui lòng thử lại.",
+    "info": "Thông tin liên hệ",
+    "location": "Vị trí",
+    "phone": "Điện thoại",
+    "ctaTitle": "Bạn có câu hỏi?",
+    "ctaSubtitle": "Đừng ngần ngại liên hệ với tôi. Tôi luôn sẵn sàng trao đổi về công nghệ, lập trình và các dự án thú vị.",
+    "sendEmail": "Gửi Email cho tôi"
+  },
+  "certificates": {
+    "title": "Chứng Chỉ",
+    "subtitle": "Thành tích và bằng cấp",
+    "filter": "Lọc theo",
+    "all": "Tất cả",
+    "sort": "Sắp xếp",
+    "newest": "Mới nhất",
+    "oldest": "Cũ nhất",
+    "viewCertificate": "Xem Chứng Chỉ"
+  },
+  "footer": {
+    "description": "Chia sẻ kiến thức về lập trình mạng, Java và JavaScript. Nơi tôi ghi lại hành trình học tập và phát triển sự nghiệp.",
+    "explore": "Khám phá",
+    "categories": "Chuyên mục",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước đó",
+    "close": "Đóng",
+    "open": "Mở",
+    "github": "GitHub",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "viewAll": "Xem tất cả",
+    "gpa": "GPA"
+  },
+  "portfolio": {
+    "educationTitle": "Học vấn & Hoạt động",
+    "education": {
+      "school": "Đại học Công Nghệ TP.HCM (HUTECH)",
+      "major": "Công nghệ phần mềm",
+      "degree": "Kỹ sư Công nghệ thông tin"
+    },
+    "activities": {
+      "olympic": {
+        "title": "Câu lạc bộ Olympic Tin Học",
+        "item1": "Rèn luyện thuật toán và giải đề thi Olympic.",
+        "item2": "Tham gia cuộc thi học thuật cấp khoa."
+      },
+      "hackathonTitle": "Thành tích Hackathon"
+    },
+    "careerGoalsTitle": "Mục tiêu nghề nghiệp",
+    "careerGoals": [
+      {
+        "title": "Backend Developer",
+        "description": "Phát triển chuyên sâu Backend (RESTful API, bảo mật, hiệu năng). Nghiên cứu Web3 cơ bản."
+      },
+      {
+        "title": "Fullstack Web & Web3 Developer",
+        "description": "Thành thạo MERN Stack và Web3 dApps. Tích hợp Blockchain vào ứng dụng thực tế."
+      },
+      {
+        "title": "Tech Lead / Project Manager",
+        "description": "Quản lý đội ngũ, định hướng giải pháp công nghệ Web2/Web3 và chuyển đổi số."
+      }
+    ],
+    "hackathons": [
+      {
+        "achievement": "🥉 Giải Ba",
+        "role": "Full Stack Developer"
+      },
+      {
+        "achievement": "Tham gia",
+        "role": "Full Stack Developer"
+      }
+    ],
+    "projectAwards": {
+      "ecom": "Hệ thống thương mại điện tử đầy đủ tính năng với thanh toán VNPay và AI Agent hỗ trợ người dùng.",
+      "pione": "🥉 Giải Ba - Pione Dream Hackathon 2025"
+    },
+    "projectDetails": {
+      "ecom": {
+        "title": "Website Bán Hàng Điện Tử",
+        "description": "Hệ thống thương mại điện tử đầy đủ tính năng với thanh toán VNPay và AI Agent hỗ trợ người dùng.",
+        "role": "Fullstack Developer"
+      },
+      "pione": {
+        "title": "Pione Game Trace (dApp)",
+        "description": "Nền tảng truy xuất nguồn gốc tài khoản game trên Blockchain, đảm bảo minh bạch và chống gian lận.",
+        "role": "Blockchain Developer"
+      }
+    }
+  }
+}
